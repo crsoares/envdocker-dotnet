@@ -14,4 +14,4 @@ RUN apt-get update && \
     sudo add-apt-repository -y universe && \
     sudo apt-get -y install apt-transport-https && \
     sudo apt-get update && \
-    sudo apt-get -y install dotnet-sdk-2.2
+    sudo apt-get -y install dotnet-sdk-2.1
